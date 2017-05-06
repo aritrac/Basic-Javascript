@@ -1,6 +1,8 @@
 //[COMMENTS]
-//Make the variable quotient equal to 2.
-//Use the / operator
+//myVar should equal 88
+//myVar = myVar should be changed
+//Use the ++ operator
+//Do not change code above the line
 //[COMMENTS]
 
 
