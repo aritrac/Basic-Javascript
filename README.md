@@ -72,3 +72,141 @@ The order of the code that you would follow is this:
 34)Use Bracket Notation to Find the Last Character in a String
 
 35)Use Bracket Notation to Find the NthtoLast Character in a String
+
+36)Word Blanks
+
+37)Store Multiple Values in one Variable using JavaScript Arrays
+
+38)Nest one Array within Another Array
+
+39)Access Array Data with Indexes
+
+40)Modify Array Data With Indexes
+
+41)Access MultiDimensional Arrays With Indexes
+
+42)Manipulate Arrays With push
+
+43)Manipulate Arrays With pop
+
+44)Manipulate Arrays With shift
+
+45)Manipulate Arrays With unshift
+
+46)Shopping List
+
+48)Write Reusable JavaScript with Functions
+
+49)Passing Values to Functions with Arguments
+
+50)Global Scope and Functions
+
+51)Local Scope and Functions
+
+52)Global vs Local Scope in Functions
+
+53)Return a Value from a Function with Return
+
+54)Assignment with a Returned Value
+
+55)Stand in Line
+
+56)Understanding Boolean Values
+
+57)Use Conditional Logic with If Statements
+
+58)Comparison with the Equality Operator
+
+59)Comparison with the Strict Equality Operator
+
+60)Comparison with the Inequality Operator
+
+61)Comparison with the Strict Inequality Operator
+
+62)Comparison with the Greater Than Operator
+
+63)Comparison with the Greater Than Or Equal To Operator
+
+64)Comparison with the Less Than Operator
+
+65)Comparison with the Less Than Or Equal To Operator
+
+66)Comparisons with the Logical And Operator
+
+67)Comparisons with the Logical Or Operator
+
+68)Introducing Else Statements
+
+69)Introducing Else If Statements
+
+70)Logical Order in If Else Statements
+
+71)Chaining If Else Statements
+
+72)Golf Code
+
+73)Selecting from many options with Switch Statements
+
+74)Adding a default option in Switch statements
+
+75)Multiple Identical Options in Switch Statements
+
+76)Replacing If Else Chains with Switch
+
+77)Returning Boolean Values from Functions
+
+78)Return Early Pattern for Functions
+
+79)Counting Cards
+
+80)Build JavaScript Objects
+
+81)Accessing Objects Properties with the Dot Operator
+
+82)Accessing Objects Properties with Bracket Notation
+
+83)Accessing Objects Properties with Variables
+
+84)Updating Object Properties
+
+85)Add New Properties to a JavaScript Object
+
+86)Delete Properties from a JavaScript Object
+
+87)Using Objects for Lookups
+
+88)Testing Objects for Properties
+
+89)Manipulating Complex Objects
+
+90)Accessing Nested Objects
+
+91)Accessing Nested Arrays
+
+92)Iterate with JavaScript For Loops
+
+93)Iterate Odd Numbers With a For Loop
+
+94)Count Backwards With a For Loop
+
+95)Iterate Through an Array with a For Loop
+
+96)Nesting For Loops
+
+97)Iterate with JavaScript While Loops
+
+98)Profile Lookup
+
+99)Generate Random Fractions with JavaScript
+
+100)Generate Random Whole Numbers with JavaScript
+
+101)Generate Random Whole Numbers within a Range
+
+102)Sift through Text with Regular Expressions
+
+103)Find Numbers with Regular Expressions
+
+104)Find Whitespace with Regular Expressions
+
+105)Invert Regular Expression Matches with JavaScript
