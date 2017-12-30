@@ -8,7 +8,7 @@ below. When the count is positive, the player should bet high. When the count is
 
 Count Change	Cards
 +1				2, 3, 4, 5, 6
-0				7, 8, 9
+0				  7, 8, 9
 -1				10, 'J', 'Q', 'K', 'A'
 
 You will write a card counting function. It will receive a card parameter and increment or decrement the global count 

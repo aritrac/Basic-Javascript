@@ -1,7 +1,7 @@
 # Basic-Javascript
-Contains basic code snippets to understand Javascript
+*Contains basic code snippets to understand Javascript*
 
-The order of the code that you would follow is this:
+*The order of the code that you would follow is this:*
 
 1)Comment your JavaScript Code
 
